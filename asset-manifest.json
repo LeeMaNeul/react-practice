@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LeeMaNeul.github.io/react-practice/static/css/main.5a6a2768.css",
+    "main.js": "/LeeMaNeul.github.io/react-practice/static/js/main.2b205ea1.js",
+    "static/js/453.ad0e490e.chunk.js": "/LeeMaNeul.github.io/react-practice/static/js/453.ad0e490e.chunk.js",
+    "index.html": "/LeeMaNeul.github.io/react-practice/index.html",
+    "main.5a6a2768.css.map": "/LeeMaNeul.github.io/react-practice/static/css/main.5a6a2768.css.map",
+    "main.2b205ea1.js.map": "/LeeMaNeul.github.io/react-practice/static/js/main.2b205ea1.js.map",
+    "453.ad0e490e.chunk.js.map": "/LeeMaNeul.github.io/react-practice/static/js/453.ad0e490e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a6a2768.css",
+    "static/js/main.2b205ea1.js"
+  ]
+}
